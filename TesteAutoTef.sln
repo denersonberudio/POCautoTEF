@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteAutoTef", "TesteAutoTef\TesteAutoTef.csproj", "{BBAF7BF5-07DB-422F-A884-A0C6F1BAC771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testeSeguranca", "testeSeguranca\testeSeguranca.csproj", "{599F9D03-C612-4E6C-A3B7-AA39A784666E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAF7BF5-07DB-422F-A884-A0C6F1BAC771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAF7BF5-07DB-422F-A884-A0C6F1BAC771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAF7BF5-07DB-422F-A884-A0C6F1BAC771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAF7BF5-07DB-422F-A884-A0C6F1BAC771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599F9D03-C612-4E6C-A3B7-AA39A784666E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599F9D03-C612-4E6C-A3B7-AA39A784666E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599F9D03-C612-4E6C-A3B7-AA39A784666E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599F9D03-C612-4E6C-A3B7-AA39A784666E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05B9F7E3-91F0-4C9E-BB4A-CC8F1B5E94AE}
+	EndGlobalSection
+EndGlobal
